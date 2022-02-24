@@ -85,5 +85,12 @@ Essa entidade define a Iniciação Científica. Ela é utilizada em algumas fras
 
 ## 3. Diálogo
 
-   
+![OI](https://user-images.githubusercontent.com/63318342/155564470-f9bf8c11-3568-44a0-a5c0-360ff94ae337.png)
 
+![Sobre IC](https://user-images.githubusercontent.com/63318342/155564683-5b4e0894-bc7e-4091-98c1-0177375b203a.png)
+
+![quem_pode_participar](https://user-images.githubusercontent.com/63318342/155564717-88cf8a1d-fbd7-461a-b103-57c57d934ad3.png)
+
+![como_participar](https://user-images.githubusercontent.com/63318342/155564744-f4a9d9e0-252e-4895-b941-9f56bd792258.png)
+
+![despedida](https://user-images.githubusercontent.com/63318342/155564770-5b1bdd7c-43ee-43b7-a0d4-045a6878267f.png)
