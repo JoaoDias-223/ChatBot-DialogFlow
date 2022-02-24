@@ -7,9 +7,6 @@ João Vitor Dias - 22.119.006-9
 
 É possível baixar os arquivos, zipá-los e rodar no DialogFlow
 
-Nome: Gabriel Bueno 							 RA: 22.119.077-0
-Nome: João Vitor Dias							 RA: 22.119.006-9
-
 # Laboratório de Inteligência Artificial - Atividade 03
 GitHub: https://github.com/JoaoDias-223/ChatBot-DialogFlow
 
