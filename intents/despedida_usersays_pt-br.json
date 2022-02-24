@@ -1,0 +1,121 @@
+[
+  {
+    "id": "8281f9a7-47d0-4e30-b08f-6a8563667e06",
+    "data": [
+      {
+        "text": "Até mais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "82293dd0-6db0-4bc0-840f-08117bfcffcd",
+    "data": [
+      {
+        "text": "Tchau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "af08a865-5b81-4e49-bcbb-289f6ededd6f",
+    "data": [
+      {
+        "text": "É nois cria.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7a652a87-98bb-46d7-9e75-17ed22399085",
+    "data": [
+      {
+        "text": "Falou ",
+        "userDefined": false
+      },
+      {
+        "text": "mano",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6977f038-e1fc-47d5-883f-57d234e3bd61",
+    "data": [
+      {
+        "text": "Valeu",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "irmão",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "33197235-408b-41b9-900d-9f8576a6aa29",
+    "data": [
+      {
+        "text": "Mete o ",
+        "userDefined": false
+      },
+      {
+        "text": "pé",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "10e00756-2ecd-46f3-a242-3e2e7ec814b4",
+    "data": [
+      {
+        "text": "Obrigado!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

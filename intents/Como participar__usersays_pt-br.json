@@ -1,0 +1,100 @@
+[
+  {
+    "id": "dd497043-dffd-4b22-bd90-83be897b6667",
+    "data": [
+      {
+        "text": "Como posso participar da IC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "03724bfb-bc4e-443c-b084-010e83341ea9",
+    "data": [
+      {
+        "text": "Quais são os ",
+        "userDefined": false
+      },
+      {
+        "text": "passos para",
+        "userDefined": false
+      },
+      {
+        "text": " ingressar no ",
+        "userDefined": false
+      },
+      {
+        "text": "programa",
+        "meta": "@programa-ic",
+        "alias": "programa-ic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1cc3bc6c-30b8-418f-867d-8d6eabf4c1f2",
+    "data": [
+      {
+        "text": "Como posso fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "userDefined": false
+      },
+      {
+        "text": " ingressar no ",
+        "userDefined": false
+      },
+      {
+        "text": "programa",
+        "meta": "@programa-ic",
+        "alias": "programa-ic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8e7d20bd-124c-4833-a78c-6a96c78a26da",
+    "data": [
+      {
+        "text": "Como posso participar do ",
+        "userDefined": false
+      },
+      {
+        "text": "programa",
+        "meta": "@programa-ic",
+        "alias": "programa-ic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "id": "7f14a510-57f0-4269-a693-9c9b51b3265b",
+    "data": [
+      {
+        "text": "Me ",
+        "userDefined": false
+      },
+      {
+        "text": "fale",
+        "userDefined": false
+      },
+      {
+        "text": " sobre a ",
+        "userDefined": false
+      },
+      {
+        "text": "IC",
+        "meta": "@programa-ic",
+        "alias": "programa-ic",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0cfd9ea2-1caa-46a4-b38e-c2ab2b28926f",
+    "data": [
+      {
+        "text": "Me ",
+        "userDefined": false
+      },
+      {
+        "text": "fale",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "userDefined": false
+      },
+      {
+        "text": " pouco sobre o ",
+        "userDefined": false
+      },
+      {
+        "text": "programa de Iniciação Científica",
+        "meta": "@programa-ic",
+        "alias": "programa-ic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4df0bdcf-4176-45b0-98e1-acc0642af099",
+    "data": [
+      {
+        "text": "Me ",
+        "userDefined": false
+      },
+      {
+        "text": "fale",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "userDefined": false
+      },
+      {
+        "text": " pouco sobre o programa de ",
+        "userDefined": false
+      },
+      {
+        "text": "IC",
+        "meta": "@programa-ic",
+        "alias": "programa-ic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "74a1354f-a736-4192-b333-5d6df7433340",
+    "data": [
+      {
+        "text": "O que é o ",
+        "userDefined": false
+      },
+      {
+        "text": "programa de IC",
+        "meta": "@programa-ic",
+        "alias": "programa-ic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3dc14d7b-e6f4-4af7-917f-a50176b7cb8a",
+    "data": [
+      {
+        "text": "O que é o ",
+        "userDefined": false
+      },
+      {
+        "text": "programa de iniciação científica",
+        "meta": "@programa-ic",
+        "alias": "programa-ic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

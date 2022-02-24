@@ -1,0 +1,52 @@
+{
+  "id": "bd9e6afc-09a0-488b-95c9-70d364ea52a7",
+  "name": "Adesão IC",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fa9ec3c3-1f27-4635-9ed8-531894515699",
+          "name": "programa-ic",
+          "required": false,
+          "dataType": "@programa-ic",
+          "value": "$programa-ic",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Este Programa destina-se a alunos com bom rendimento acadêmico que buscam complementar sua formação através da execução de projetos de pesquisa, elaboração de relatórios e divulgação dos seus resultados em eventos de pesquisas científicas e de investigação tecnológica.",
+            "O programa de IC destina-se a alunos com bom rendimento acadêmico que buscam complementar sua formação através da execução de projetos de pesquisa, elaboração de relatórios e divulgação dos seus resultados em eventos de pesquisas científicas e de investigação tecnológica.",
+            "A Iniciação Científica destina-se a alunos com bom rendimento acadêmico que buscam complementar sua formação através da execução de projetos de pesquisa, elaboração de relatórios e divulgação dos seus resultados em eventos de pesquisas científicas e de investigação tecnológica."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

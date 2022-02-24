@@ -1,0 +1,50 @@
+{
+  "id": "35f56b30-63d9-49d2-8163-7192c4f2247d",
+  "name": "Sobre IC",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "19065e03-13e2-4599-bbbb-d85e089827f4",
+          "name": "programa-ic",
+          "required": false,
+          "dataType": "@programa-ic",
+          "value": "$programa-ic",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O programa de IC é um projeto que visa introduzir alunos de graduação à metodologia científica aplicados a projetos de pesquisa científica e tecnológica."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

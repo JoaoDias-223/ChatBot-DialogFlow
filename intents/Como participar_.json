@@ -1,0 +1,50 @@
+{
+  "id": "ca76ba19-cd6d-418b-8ea0-a3e4dd93e3f5",
+  "name": "Como participar?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0899ba38-92ca-48e2-8c47-0c12478386d1",
+          "name": "programa-ic",
+          "required": false,
+          "dataType": "@programa-ic",
+          "value": "$programa-ic",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O aluno deve procurar um professor do departamento, com disponibilidade para orientação e verificar as vagas disponíveis para projetos de iniciação. Tendo sido selecionado um aluno, o professor deve então elaborar uma proposta de projeto individual, dentro dos moldes exigidos pela Comissão de Iniciação Científica e encaminhá-la à Coordenação."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,105 @@
+[
+  {
+    "id": "80413143-71dd-4ab7-a582-e753d25d0cf3",
+    "data": [
+      {
+        "text": "Qual é menó?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "61a5ffe2-85df-4b9b-becd-5fb8d83e6682",
+    "data": [
+      {
+        "text": "Tudo sussa, grande?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3b8c32fd-50f3-4cc4-b5cf-1b2bbdcf5791",
+    "data": [
+      {
+        "text": "Beleza",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " man?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "328c8ed4-be47-4e35-9717-7c9ec77ea1c0",
+    "data": [
+      {
+        "text": "Eae, parça",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "431ca933-c59a-4050-8de4-073eb7007844",
+    "data": [
+      {
+        "text": "Salve",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f21cd831-88ed-4364-9570-eb849172a85d",
+    "data": [
+      {
+        "text": "Oi",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e95b5e47-ea97-4cfa-be02-5aa2784ac327",
+    "data": [
+      {
+        "text": "Olá",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

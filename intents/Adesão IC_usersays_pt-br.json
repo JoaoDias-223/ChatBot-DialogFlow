@@ -1,0 +1,77 @@
+[
+  {
+    "id": "fb738810-1ddb-4f42-8a00-963db5ebbe2a",
+    "data": [
+      {
+        "text": "Qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "userDefined": false
+      },
+      {
+        "text": " pode participar do ",
+        "userDefined": false
+      },
+      {
+        "text": "programa",
+        "meta": "@programa-ic",
+        "alias": "programa-ic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a123896f-03aa-4a45-a0b6-35f7e40d92c1",
+    "data": [
+      {
+        "text": "Qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "userDefined": false
+      },
+      {
+        "text": " pode participar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6e63e015-c8cd-4837-bd44-c9c5594e4f0b",
+    "data": [
+      {
+        "text": "Quem pode participar do ",
+        "userDefined": false
+      },
+      {
+        "text": "programa",
+        "meta": "@programa-ic",
+        "alias": "programa-ic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

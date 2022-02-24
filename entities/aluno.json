@@ -1,0 +1,9 @@
+{
+  "id": "efcc5268-cffe-4211-8e79-46b72f872dce",
+  "name": "aluno",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
